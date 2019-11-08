@@ -3,5 +3,3 @@
 
 ## Coming Soon
 
-Commit test
-
